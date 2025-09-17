@@ -118,3 +118,68 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * [Groq LLM API](https://www.groq.com/)
 * [FAISS](https://github.com/facebookresearch/faiss)
 * [Streamlit](https://streamlit.io/)
+
+
+
+---
+
+#### 1. **Docker Usage Instructions**
+
+Add a section like this:
+
+````md
+## 🚀 Run with Docker
+
+You can pull and run the chatbot using Docker without setting up Python or dependencies locally.
+
+### 1. Pull the image
+
+```bash
+docker pull tyageshparmar/rag-hr-chatbot:latest
+````
+
+### 2. Run the container
+
+```bash
+docker run -p 8000:8000 -p 8501:8501 tyageshparmar/rag-hr-chatbot:latest
+```
+
+Then open:
+
+* 🔗 [http://localhost:8501](http://localhost:8501) – Streamlit frontend
+* 🔗 [http://localhost:8000/docs](http://localhost:8000/docs) – FastAPI Swagger UI
+
+````
+
+---
+
+#### 2. **Screenshots**
+Include at least:
+- 📄 A snapshot of the Streamlit chat UI
+- 📑 Optional: API `/docs` view
+This helps recruiters and visitors quickly understand the value of your project.
+
+---
+
+#### 3. **Live Demo (Optional)**
+If you deploy this somewhere (e.g., Render, Hugging Face Spaces, Railway), add:
+
+```md
+## 🌐 Live Demo
+
+Try the chatbot here: [your-link-here]
+````
+
+---
+
+#### 4. **Security Notes (Complete the section)**
+
+Your section ends mid-sentence. Suggest finishing it like this:
+
+```md
+## 🔐 Security Notes
+
+- Do not commit `.env` files or API keys to version control.
+- Use secrets management when deploying to cloud platforms.
+- Add rate-limiting and CORS policies in production setups.
+```
