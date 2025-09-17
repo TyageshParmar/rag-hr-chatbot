@@ -83,7 +83,7 @@ streamlit run chatbot_streamlit.py
 ## Usage
 
 * Open your browser at the URL shown by Streamlit (typically [http://localhost:8501](http://localhost:8501)).
-* Enter your backend API URL (default is `http://127.0.0.1:8000/query`).
+* Enter your backend API URL (default is `http://127.0.0.1:8000/docs`).
 * Ask questions about the HR policy document.
 * View answers with cited page numbers and source snippets.
 
