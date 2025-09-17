@@ -118,7 +118,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * [Groq LLM API](https://www.groq.com/)
 * [FAISS](https://github.com/facebookresearch/faiss)
 * [Streamlit](https://streamlit.io/)
-
----
-Let me know if you want me to help generate `.gitignore` or Dockerfile next!
-```
