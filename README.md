@@ -148,19 +148,12 @@ Then open:
 Include at least:
 - 📄 A snapshot of the Streamlit chat UI
 - 📑 Optional: API `/docs` view
-This helps recruiters and visitors quickly understand the value of your project.
-
-#### 3. **Live Demo (Optional)**
-If you deploy this somewhere (e.g., Render, Hugging Face Spaces, Railway), add:
-
+- app.jpeg
+- api.png
 
 ## 🌐 Live Demo
 
-Try the chatbot here: [your-link-here]
-
-#### 4. **Security Notes (Complete the section)**
-
-Your section ends mid-sentence. Suggest finishing it like this:
+Chatbot link is: 
 
 ## 🔐 Security Notes
 
