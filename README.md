@@ -148,8 +148,8 @@ Then open:
 Include at least:
 - 📄 A snapshot of the Streamlit chat UI
 - 📑 Optional: API `/docs` view
-- app.jpeg
-- api.png
+- ![Demo Screenshot](app.jpeg)
+- ![Demo Screenshot](api.png)
 
 ## 🌐 Live Demo
 
