@@ -153,7 +153,7 @@ Include at least:
 
 ## 🌐 Live Demo
 
-- Chatbot link is:
+- Chatbot link:
 - API live link: https://tyageshparmar-hr-policy-backend.hf.space/docs
 
 ## 🔐 Security Notes
