@@ -9,7 +9,7 @@ st.title("📘 HR Policy Chatbot")
 # Input for API URL
 api_url = st.text_input(
     "Backend API URL",
-    "http://127.0.0.1:8000/query",
+    "https://tyageshparmar-hr-policy-backend.hf.space/query",
     help="Enter your FastAPI backend endpoint"
 )
 
@@ -50,4 +50,5 @@ if st.session_state.chat_history:
             st.markdown("**📌 Sources:**")
             for s in chat["sources"]:
                 st.markdown(f"- Page {s['page']}: {s['snippet']}")
+
         st.markdown("---")
