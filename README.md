@@ -153,7 +153,9 @@ Include at least:
 
 ## 🌐 Live Demo
 
-- Chatbot link:
+- Chatbot link: https://chatbothr.netlify.app/
+- Live streamlit app link: https://chatbot-for-hr-solution.streamlit.app/
+- For fronend api link: https://tyageshparmar-hr-policy-backend.hf.space/query
 - API live link: https://tyageshparmar-hr-policy-backend.hf.space/docs
 
 ## 🔐 Security Notes
